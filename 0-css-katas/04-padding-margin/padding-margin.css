@@ -1,0 +1,42 @@
+h1 {
+  text-decoration: underline;
+}
+
+section {
+  border: 1px solid #000000;
+  width: 200px;
+  background-color: rgb(250, 228, 215);
+  text-align: center;
+}
+
+section p {
+  background-color: rgb(255, 167, 108);
+  font-size: 30px;
+}
+
+.fragile,
+.left,
+.right,
+.spa {
+  border: 1px solid rgb(255, 188, 143);
+}
+
+/* Change the CSS after this line */
+/* Task 1 */
+
+/* Task 2 */
+
+/* Task 3 */
+.spa {
+  width: 95vw;
+}
+
+/* Task 4 */
+.avocado-article {
+  width: 300px;
+  border: 1px solid black;
+}
+
+.button-wrapper {
+  width: max-content;
+}
