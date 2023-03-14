@@ -21,8 +21,10 @@ Tools like [axe](https://chrome.google.com/webstore/detail/axe-devtools-web-acce
 
 ### Week 3: `2-js-katas`
 
-1. Running order in folder
+Problem solving skills are essential and you should practice regularly to keep them sharp. Each kata has an associated `.md` file with the instructions and a test file already setup. Work through the katas in here in the following order:
 
-## Setup Instructions
-
-- TODO: Direct to the individual repos
+1. findMostRepeated
+2. csvParser
+3. binarySearch
+4. subArrSum
+5. romanNumeralEncoder
