@@ -1,56 +1,30 @@
-# Northcoders Front End Katas
-
-## Instructions
-
-This repo is a series of katas to practice your problem solving skills, there is a recommended running order below. There are more katas here than we expect you to complete during this block but have provided extras for you to use as practice once you finish the course to help keep your skills sharp.
-
-Each kata should be completed with full TDD.
+# Northcoders Front End Afternoon Katas
 
 ## Running Order
 
-The running order for this block's katas is:
+The running order for this block's katas:
+
+### Week 1: `0-css-katas`
+
+A series of challenges that cover a variety of CSS topics.
+Read the markdown file for each kata carefully - the challenges have specific instructions on how to complete them. Each html file is designed to be opened with `Live Server` so that the appropriate CSS files can be linked.
+
+_tip_ In VSCode if you right click a markdown file you can select `Open Preview`. This will render the markdown and let you easily view the associated images.
+
+Once you have completed a task take a screenshot of your result and add it to your repo.
+
+### Week 2: `1-be-an-a11y`
+
+`fixme.html` is a page that's already setup but the devs have done a poor job with the a11y. Your job is to fix these issues, there's a list of things to consider in the `README`.
+
+Tools like [axe](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), [lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) or [wave](https://wave.webaim.org/extension/) may help here, but it's your job to fix the errors!
+
+### Week 3: `2-js-katas`
+
+Problem solving skills are essential and you should practice them regularly to keep them sharp. Each kata has an associated `.md` file with the instructions and a test file already setup. Work through the katas in here in the following order:
 
 1. findMostRepeated
-2. rgbaModifier
-3. subArrSum
-4. romanNumeralEncoder
-5. vowelShift
-6. findPartner
-7. fillSquare
-8. needleInHaystack
-9. binarySearch
-10. parseHexInt
-11. simplifyDirections
-12. justifyLine
-13. csvParser
-14. multiplicationTable
-15. wrongWayCow
-16. getSubSquare
-17. crackCode
-18. checkDiagonalWinner
-19. findConnectFourWinner
-20. connectFourGame
-21. calculateBinaryScores
-22. rotateMatrix
-23. runLengthEncoder
-24. md5Hashing
-25. md5HashingAdvanced
-
-## Setup Instructions
-
-1. Fork this repository to your own GitHub account because you will be pushing your own solutions to it.
-
-2. Clone your fork of this repository to your local machine and `cd` into it:
-
-```
-$ git clone <your fork's URL>
-$ cd fe-katas
-```
-
-3. Make sure you've navigated into the folder and install all dependecies using `npm install`. You also have access to an npm script to run tests (`npm test`). Try to spend an hour each morning working on a kata. It will give you the edge when you come to do tech tests for your job applications
-
-4. Work on the kata and commit changes as needed. When you are happy with your solution, push all your changes to your forked repo. You should push to your fork frequently but as a bare minimum please make sure it's up to date with last week's kata solutions before Monday morning each week:
-
-```
-$ git push origin main
-```
+2. csvParser
+3. binarySearch
+4. subArrSum
+5. romanNumeralEncoder

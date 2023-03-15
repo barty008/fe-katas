@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+  background-color: paleturquoise;
+  color: grey;
+  text-align: center;
+  margin: 1rem;
+}
+
+.menu {
+  display: flex;
+  background-color: palegoldenrod;
+  justify-content: space-between;
+  width: 10rem;
+  list-style-type: none;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  padding: 1rem;
+}
+
+.sign-up-btn {
+  background: red;
+}
