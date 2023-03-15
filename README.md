@@ -6,10 +6,10 @@ The running order for this block's katas:
 
 ### Week 1: `0-css-katas`
 
-A series of challenges cover a variety of CSS topics.
-Read the markdown file for each kata carefully - the challenges have specific instructions on how to complete them. Each html file is designed to opened with `Live Server` so that it appropriate CSS files can be linked.
+A series of challenges that cover a variety of CSS topics.
+Read the markdown file for each kata carefully - the challenges have specific instructions on how to complete them. Each html file is designed to be opened with `Live Server` so that the appropriate CSS files can be linked.
 
-_tip_ In VSCode if you right click a markdown file you can `Open Preview`. This will render the markdown and let you easily view the associated images.
+_tip_ In VSCode if you right click a markdown file you can select `Open Preview`. This will render the markdown and let you easily view the associated images.
 
 Once you have completed a task take a screenshot of your result and add it to your repo.
 
@@ -21,7 +21,7 @@ Tools like [axe](https://chrome.google.com/webstore/detail/axe-devtools-web-acce
 
 ### Week 3: `2-js-katas`
 
-Problem solving skills are essential and you should practice regularly to keep them sharp. Each kata has an associated `.md` file with the instructions and a test file already setup. Work through the katas in here in the following order:
+Problem solving skills are essential and you should practice them regularly to keep them sharp. Each kata has an associated `.md` file with the instructions and a test file already setup. Work through the katas in here in the following order:
 
 1. findMostRepeated
 2. csvParser
