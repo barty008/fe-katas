@@ -17,5 +17,5 @@ You can assume that the array passed to the function will always be ordered and 
 
 ### Food for thought
 
-- Think about how this algorithm compares to searching on element at a time in order. Which one is faster and, more importantly, how much faster is it?
+- Think about how this algorithm compares to searching one element at a time in order. Which one is faster and, more importantly, how much faster is it?
 - Is there a way to approximately determine how many "bisections" it would take to find a number based on the length of the array?

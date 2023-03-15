@@ -1,7 +1,7 @@
 const { csvParser } = require('../katas/csvParser/csvParser');
 
 describe('csvParser()', () => {
-  it('', () => {
+  test('', () => {
     // first test here
   });
 });

@@ -3,7 +3,7 @@ const {
 } = require('../katas/romanNumeralEncoder/romanNumeralEncoder');
 
 describe('romanNumeralEncoder()', () => {
-  it('', () => {
+  test('', () => {
     // first test here
   });
 });

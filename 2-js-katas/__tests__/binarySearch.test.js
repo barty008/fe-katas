@@ -1,7 +1,7 @@
 const { binarySearch } = require('../katas/binarySearch/binarySearch');
 
 describe('binarySearch()', () => {
-  it('', () => {
+  test('', () => {
     // first test here
   });
 });

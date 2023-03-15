@@ -3,7 +3,7 @@ const {
 } = require('../katas/findMostRepeated/findMostRepeated');
 
 describe('binarySearch()', () => {
-  it('', () => {
+  test('', () => {
     // first test here
   });
 });

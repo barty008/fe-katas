@@ -2,7 +2,7 @@ _NOTE: best viewed in preview_
 
 ## Encode Roman numerals
 
-The challenge is to implement a function which return a Roman Numeral string when passed a number of seconds
+The challenge is to implement a function which returns a Roman Numeral string when passed a number of seconds
 
 ##### examples
 
@@ -44,6 +44,8 @@ romanNumeralEncoder(91)
 ```
 
 ##### Roman Numeral Table
+
+- Remember to view this in preview mode
 
 <table>
 

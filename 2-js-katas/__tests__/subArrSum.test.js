@@ -1,7 +1,7 @@
 const { subArrSum } = require('../katas/subArrSum/subArrSum');
 
 describe('subArrSum()', () => {
-  it('', () => {
+  test('', () => {
     // first test here
   });
 });
