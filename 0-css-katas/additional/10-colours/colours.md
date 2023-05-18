@@ -52,7 +52,7 @@ This kata will require you to colour in some flags from around the world using t
 
 ### Task 1:
 
-For this task you will need to add some standard web colours to the first row of flags to match the following countries:
+For this task you will need to add some standard default CSS colours to the first row of flags to match the following countries:
 
 - Italy
 - Belgium
