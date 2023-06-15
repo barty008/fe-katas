@@ -21,10 +21,4 @@ Tools like [axe](https://chrome.google.com/webstore/detail/axe-devtools-web-acce
 
 ### Week 3: `2-js-katas`
 
-Problem solving skills are essential and you should practice them regularly to keep them sharp. Each kata has an associated `.md` file with the instructions and a test file already setup. Work through the katas in here in the following order:
-
-1. findMostRepeated
-2. csvParser
-3. binarySearch
-4. subArrSum
-5. romanNumeralEncoder
+To get your tasks for this week, head to [this link](https://l2c.northcoders.com/courses/fe/fe-katas-week-3).
