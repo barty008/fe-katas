@@ -6,12 +6,7 @@ The running order for this block's katas:
 
 ### Week 1: `0-css-katas`
 
-A series of challenges that cover a variety of CSS topics.
-Read the markdown file for each kata carefully - the challenges have specific instructions on how to complete them. Each html file is designed to be opened with `Live Server` so that the appropriate CSS files can be linked.
-
-_tip_ In VSCode if you right click a markdown file you can select `Open Preview`. This will render the markdown and let you easily view the associated images.
-
-Once you have completed a task take a screenshot of your result and add it to your repo.
+Instructions for these katas are found here: https://l2c.northcoders.com/courses/fe/fe-katas-week-1
 
 ### Week 2: `1-be-an-a11y`
 
