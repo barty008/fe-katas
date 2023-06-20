@@ -6,8 +6,7 @@ The running order for this block's katas:
 
 ### Week 1: `0-css-katas`
 
-Instructions for week 1 katas are found here: 
-https://l2c.northcoders.com/courses/fe/fe-katas-week-1
+Instructions for these katas are found here: https://l2c.northcoders.com/courses/fe/fe-katas-week-1
 
 ### Week 2: `1-be-an-a11y`
 
