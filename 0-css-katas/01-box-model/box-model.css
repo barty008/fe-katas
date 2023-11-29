@@ -5,12 +5,17 @@ h1 {
 code {
   background-color: #ffefd6;
   padding: 3px;
+  display: inline-block;
+}
+span {
+  /* background-color: yellow; */
 }
 
 section {
-  background-color: #ffd79b;
   padding: 0.5rem 1rem;
   margin: 1px;
+  width: 20%;
+  display: inline-flex;
 }
 
 /* Task 2 */
@@ -27,6 +32,9 @@ section {
 
 .border {
   box-sizing: border-box;
+  height: 300px;
+  width: 300px;
+  box-sizing: content-box;
   /* change height + width here! */
 }
 

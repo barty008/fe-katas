@@ -29,6 +29,7 @@ header {
   align-items: flex-end;
   padding: 10px;
   /* TASK 3 - Insert border here */
+  border: dotted 5px black;
 }
 nav li.nav_link {
   list-style: none;
@@ -63,16 +64,20 @@ h1 {
 
 section.starters {
   /* TASK 1 - Insert border here */
+  border-right: 2px solid black;
 }
 
 section.desserts {
   /* TASK 1 - Insert border here */
+  border-left: 2px solid black;
 }
 
 /* MENU STYLING */
 
 h2 {
   /* TASK 2 - Insert border here */
+  font-weight: 800;
+  font-style: italic;
 }
 
 .menu_item {
@@ -102,4 +107,6 @@ footer {
   justify-content: space-evenly;
   align-items: center;
   /* TASK 4 - Insert border here */
+  border: solid 2.5px black;
+  border-radius: 10px;
 }

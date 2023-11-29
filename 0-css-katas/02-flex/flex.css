@@ -1,7 +1,10 @@
 h1 {
   text-decoration: underline;
 }
-
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
 .box {
   background: #e46058;
   padding: 2rem;

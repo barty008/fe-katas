@@ -38,8 +38,9 @@ body {
   background-color: #fffcba;
   padding: 10px;
   width: 80%; /* <--- Task 4 */
-  height: auto; /* <--- Task 4 */
-  margin: 0 auto; 
+  height: 100vh; /* <--- Task 4 */
+  width: 100vw;
+  margin: 0 auto;
 }
 
 /* Header Styling */
@@ -52,8 +53,8 @@ h1 {
 
 p.albert_bio {
   margin-bottom: 20px;
-  font-size: 8px; /* <-- Task 1*/
-  line-height: 0.2; /*<-- Task 2*/
+  font-size: 1rem; /* <-- Task 1*/
+  line-height: 2; /*<-- Task 2*/
 }
 
 .p_container {
@@ -71,7 +72,7 @@ ul.quotes_list {
 
 .quotes_list li {
   margin: 10px;
-  font-size: 32px; /* <--- Task 3 */
+  font-size: 0.5em; /* <--- Task 3 */
 }
 
 /* Image Styling */
