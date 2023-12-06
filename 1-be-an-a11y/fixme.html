@@ -4,13 +4,23 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Fix this page</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <header>
+      <h1>Welcome!</h1>
+      <nav>
+        <ul class="menu">
+          <li><a role="link" aria-label="Home" href="#">Home</a></li>
+          <li><a role="link" aria-label="Contact" href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
     <main>
-      <div>
-        <p>Welcome!</p>
+      <section>
+        <h2>About Us</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
           asperiores aspernatur voluptates laudantium ullam. Voluptatibus, vero
@@ -18,7 +28,7 @@
           quod unde magni aperiam adipisci. Fuga deserunt fugit repellat
           molestiae, laboriosam voluptatibus repudiandae tempora omnis.
         </p>
-        <p>Click the red button to sign up!</p>
+        <p>Click the button below to sign up!</p>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis,
           natus. Officia non iusto itaque quibusdam cupiditate voluptatem,
@@ -26,19 +36,19 @@
           facilis temporibus illum repellendus? Unde dignissimos excepturi
           commodi id quia consectetur quae neque nesciunt praesentium?
         </p>
-        <button class="sign-up-btn">Click me!</button>
-      </div>
-      <div>
-        <h3>Lorem ipsum dolor sit amet.</h3>
+        <a href="#" class="sign-up-btn">Sign Up Now</a>
+      </section>
+      <section>
+        <h2>Featured Content</h2>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam quis
           nobis placeat dolorum. Perferendis labore nesciunt nam ipsum quisquam
           voluptatibus?
         </p>
-      </div>
+      </section>
       <img
         src="https://images.pexels.com/photos/9003557/pexels-photo-9003557.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-        alt="garden"
+        alt="A lush garden with vibrant flowers and greenery"
       />
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus
@@ -53,15 +63,12 @@
         ea, excepturi dicta illum fugit ducimus omnis aliquid, aperiam
         exercitationem sit. Eius.
       </p>
-      <ul class="menu">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
     </main>
     <footer>
-      <button>
-        <a href="https://instagram.com">Visit us!</a>
-      </button>
+      <h2>Contact Us</h2>
+      <a href="https://instagram.com" aria-label="Visit our Instagram page"
+        >Visit our Instagram page</a
+      >
     </footer>
   </body>
 </html>
